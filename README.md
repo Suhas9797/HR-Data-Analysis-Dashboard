@@ -96,7 +96,7 @@ My Contributions
       •	Gained knowledge of workforce analytics and how data visualization supports HR strategies for retention and engagement.
 
 Screenshot of the Dashboard
-![Dashboard Preview]()
+![Dashboard Preview](https://github.com/Suhas9797/HR-Data-Analysis-Dashboard/blob/main/Screenshot%20of%20the%20dashboard.png)
 
 
 
